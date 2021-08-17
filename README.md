@@ -13,7 +13,7 @@ Hey there...
  </p>
  <p align='center'> 
   My name is Lucas Dziewulski Ribeiro, 
-  I currently work with finance and analytics in Brazil. I started studying data science in 2020 and I'm looking for experiences and learning.
+  I currently work with finance and analytics. In 2020 I started studying Data Science and Python and I'm looking for more experiences and learning.
 
   I would like to invite you to visit my repositories where you can find some of my projects that I have studied over the years
   
