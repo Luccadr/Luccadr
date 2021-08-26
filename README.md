@@ -13,9 +13,10 @@ Hey there...
  </p>
  <p align='center'> 
   My name is Lucas Dziewulski Ribeiro, 
-  My backgroung is related to controller, economics, investments and data visualization. I currently work with finance and analytics, but in 2020 I started studying Data Science, SQL and Python; and I'm looking for more experiences and learning.
+ 
+   My backgroung is related to controller, economics, investments and data visualization. I currently work with finance and analytics, but in 2020 I started studying Data Science, SQL     and Python; and I'm looking for more experiences and learning.
 
-  I would like to invite you to visit my repositories where you can find some of my projects that I have studied over the years
+   I would like to invite you to visit my repositories where you can find some of my projects that I have studied over the years
   
   <img align="center" alt="JPG" src="https://raw.githubusercontent.com/Luccadr/study_alura/main/shutterstock_610018373.jpg" width="2000" height="200" />
   
