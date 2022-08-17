@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Dziewulski Ribeiro</h1>
 <h3 align="center">A passionate data scientist from Brazil</h3>
-<img align = "right" alt = "Colding" src="https://media0.giphy.com/media/l3q2XB76CaWPggiNW/200.gif" width="480">
+<img align = "right" alt = "Colding" src="c.tenor.com/2fXbn6Xtt0UAAAAM/software-software-development.gif" width="480">
 
 - 🔭 I’m currently working on **Grupo Fleury**
 
