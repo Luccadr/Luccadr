@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Grupo Fleury**
 
-- 🌱 I’m currently learning **Data Engineer, Airflow, Datalake and R Language**
+- 🌱 I’m currently learning **Data Engineer, Airflow, Datalake and JavaScript/NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Luccadr/projects](https://github.com/Luccadr/projects)
 
