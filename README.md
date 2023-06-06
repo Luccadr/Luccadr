@@ -1,7 +1,8 @@
-![MasterHead](https://cutewallpaper.org/21/data-science-wallpapers/All-stories-published-by-Towards-Data-Science-on-December-22-.jpg)
-<h1 align="center">Hi 👋, I'm Lucas Dziewulski Ribeiro</h1>
-<h3 align="center">A passionate data scientist from Brazil</h3>
+![MasterHead](https://github.com/Luccadr/Images/blob/main/github-header-image%20(5).png)
+
 <img align = "right"  src="https://i.pinimg.com/originals/82/4b/87/824b877bf4c731e3fcc13a8881c3e982.jpg" width="550">
+
+<h3 align="center">My name is Lucas Dziewulski Ribeiro</h3>
 
 - 🔭 I’m currently working on **Grupo Fleury**
 
